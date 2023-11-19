@@ -1,0 +1,7 @@
+[
+    {
+        "title": "How does Express code look?",
+        "text": "// Require the 'express' module\nconst express = require(\"express\");\n\n// Create an instance of the Express application\nconst app = express();\n\n// Define the port number for the server to listen on\nconst port = 3001;\n\n// Define a route for the root URL (\"/\")\napp.get(\"/\", function (req, res) {\n  // When a request is made to the root URL, respond with \"Hello World!\"\n  res.send(\"Hello World!\");\n});\n\n// Start the server and make it listen on the specified port\napp.listen(port, function () {\n  // Display a message indicating that the server is running and listening on the specified port\n  console.log(`Example app listening on port ${port}!`);\n});\n",
+        "id": "9lpirok4olp5p6tzl"
+    }
+]
