@@ -8,7 +8,7 @@
  This application is setup to allow users to capture, organize, and manage their notes. 
 
  Click on the link to watch a video demonstration:
-[Note Taker Video Demo](https://drive.google.com/file/d/1R_gXAcaT-CAWKogNeHB5wKXfDmKPi945/view)
+[Note Taker Video Demo](https://drive.google.com/file/d/1bWy4AZsHvRuR9lrzWdizOk3Z6WyBCJWP/view)
 
 
  ## Table of Content
@@ -33,7 +33,9 @@ In the terminal you would want to add the dependencies.
 1. Type in "npm i express" 
 2. Type in "npm i uniqid"
 
-After adding these dependencies you are ready to run the application. In the ternimal you can type in "node.sever.js" or "npm start". A link will be provided such as localhost/3001 copy that link or hold down ctrl and click the link to open it in the brower. 
+After adding these dependencies you are ready to run the application. 
+
+In the ternimal you can type in "node.sever.js" or "npm start". A link will be provided such as localhost/3001 copy that link or hold down ctrl and click the link to open it in the brower. 
 
 ![Alt text](Images/note-taker-ss1.png)
 ![Alt text](Images/note-taker-ss2.png)
