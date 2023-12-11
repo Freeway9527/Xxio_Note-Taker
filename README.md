@@ -10,6 +10,9 @@
  Click on the link to watch a video demonstration:
 [Note Taker Video Demo](https://drive.google.com/file/d/1bWy4AZsHvRuR9lrzWdizOk3Z6WyBCJWP/view)
 
+Click on link for live deployment
+[Note Taker](https://xxio-note-taker.onrender.com/)
+
 
  ## Table of Content
 * [Installation](#installation)
